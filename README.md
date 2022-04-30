@@ -24,4 +24,4 @@ Easy Ensemble AdaBoost Classifier
 ![Screen Shot 2022-04-29 at 8 11 26 PM](https://user-images.githubusercontent.com/95198079/166082533-e31ef6df-a1d6-4d54-a297-27774343ad1d.png)
 
 ## Summary 
-### I attempted multipled combinations of sample types to help come to a conclusion on predicting which loans are at the highest risk.  Those scores were not very high compared to ensemble classifiers.  The easy ensemble had the overall best balance of the models we used in this challenge.  
+### I attempted multiple combinations of sample types to help come to a conclusion on predicting which loans are at the highest risk.  Those scores were not very high compared to ensemble classifiers.  The easy ensemble had the overall best balance of the models we used in this challenge.  
